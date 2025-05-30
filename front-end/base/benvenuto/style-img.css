@@ -1,0 +1,21 @@
+/* Stili per la pagina immagine.html */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container img {
+    border: 2px solid #333;
+    max-width: 80%;
+}
+
+/* Stili di base per il testo */
+h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: #666;
+    font-size: 1.1em;
+}
