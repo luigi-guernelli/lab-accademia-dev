@@ -1,5 +1,4 @@
 package ciclo.iterativo.switch_swt;
-
 /**
  * Esercizio 5.1: Calcolatrice con switch
  */
