@@ -4,7 +4,7 @@
 1. <b>Nome classe:</b> GuessTheNumberBasic vs GuessTheNumberEnhanced
 2. <b>Gestione input:</b> La versione migliorata valida l'input
 3. <b>Feedback:</b> Mostra tentativi rimanenti e numero del tentativo corrente
-4. <b>Interfaccia:</b> Messaggi più dettagliati <b> emoji </b>
+4. <b>Interfaccia:</b> Messaggi più dettagliati
 ------------------------------------------------------------------------------------------------------
 Entrambe le classi possono coesistere nello stesso progetto Java, permettendo di confrontare
 le due implementazioni.
